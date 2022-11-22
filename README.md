@@ -18,3 +18,5 @@ c、wifi 使用softap模式，账号 hi3798mv100，密码 Hi3798mv100
 2、usb驱动支持rtl8153和ax88179，其他的没测。
 3、usb网卡概率出现从1Gbps编程1Mbps，原因未知，重启就好了，没兴趣研究。
 ![image](https://user-images.githubusercontent.com/23007737/203189748-10e1754d-3744-47fd-9dc7-d6c36ba97e46.png)
+![image](https://user-images.githubusercontent.com/23007737/203189858-8d0c7618-ca92-44a6-87ff-5dbe64fda508.png)
+
