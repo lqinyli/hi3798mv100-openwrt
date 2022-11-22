@@ -1,5 +1,5 @@
 # hi3798mv100-openwrt
-#https://bbs.histb.com/d/226-ec6108v9-openwrt
+# https://bbs.histb.com/d/226-ec6108v9-openwrt
 免责申明：本镜像为Jimmy自用，一切资料来源网上，仅供尝鲜好玩。
 
 下载地址：https://gitee.com/chanjinn/hi3798mv100-openwrt
